@@ -9,4 +9,4 @@ Earth with a collective mind fusing from thriving individuals.
 * Free&Open&Share
 * Mesh-up
 
-### WebStudio: The Very First Step, For My Own's Sake As Well.
+### WebStudio: Place for small group of people working together, which is reachable by the entire web.
