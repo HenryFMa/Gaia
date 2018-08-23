@@ -9,4 +9,4 @@ Earth with a collective mind fusing from thriving individuals.
 * Free&Open&Share
 * Mesh-up
 
-### WebStudio: The Very First Step, For My Own Sake As Well.
+### WebStudio: The Very First Step, For My Own's Sake As Well.
