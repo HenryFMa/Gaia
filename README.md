@@ -7,6 +7,7 @@ Earth with a collective mind fusing from thriving individuals.
 * [Cesium](https://github.com/AnalyticalGraphicsInc)
 * [Matrix](https://github.com/matrix-org)
 * [WebRTC](https://github.com/muaz-khan/WebRTC-Experiment)
+* * [Introducing A-Terrain - a cartography component for A-Frame](https://blog.mozvr.com/introducing-a-terrain/)
 
 ## WebPresence: Give individuals and startups a real stand on the web.
 * Universal: English, Web, ...
